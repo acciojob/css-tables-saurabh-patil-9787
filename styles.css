@@ -2,13 +2,13 @@
 td{
 	border:1px solid gray;
 	padding:10px;
-	border-radius:10px;
+	border-radius:5px;
 	
 }
 th{
 	border:1px solid gray;
 	padding:10px;
-		border-radius:10px;
+		border-radius:5px;
 }
 .bg{
 	background-color:whitesmoke;
